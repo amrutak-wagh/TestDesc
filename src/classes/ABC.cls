@@ -4,7 +4,7 @@ public class ABC {
     
     public ABC() {
     
-    
+          system.debug('Z is');
     }
     
     
